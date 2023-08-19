@@ -1,0 +1,45 @@
+Pipeline issue
+LIDAR Issue
+External Storage
+GUI Scalling                          (in process)
+Display LIDAR Distance and Strength   (in process)
+Record/Stream Check box               (complete)
+Rotate Enable last check box          (complete)
+Spelling check-lidar                  (Complete)
+Correct Start Icon                    (complete)
+Display 3 digit in mp4                (complete)
+
+DATA_LIDAR_DISTANCE_1885_CM
+DATA_LIDAR_DISTANCE_18_CM
+DATA_LIDAR_DISTANCE_15_CM
+DATA_LIDAR_DISTANCE_00_CM
+DATA_LIDAR_DISTANCE_1000_CM
+DATA_LIDAR_DISTANCE_1258565_C
+
+DATA_LIDAR_DISTANCE_1000_CM
+DATA_LIDAR_STRENGTH_ssss_CM
+DATA_LIDAR_STRENGTH_90_CM
+DATA_LIDAR_STRENGTH_100_CM
+DATA_LIDAR_STRENGTH_110_CM
+DATA_LIDAR_STRENGTH_120_CM
+DATA_LIDAR_STRENGTH_130_CM
+
+Test Application with all features
+Compine Disk scrpt in app
+
+            self.windowlabel2 = 350 # used to set height for label2
+            self.btnshiftrow = 0
+            self.btnshiftcolumn = 40
+            self.savespace = 20 
+            self.savebuttonlabelwidth = 140
+            self.savebuttonlabelheight = 20
+
+      
+            self.btnshiftrow = 40
+            self.btnshiftcolumn = 20
+            self.savespace = 20 
+            self.downbuttonlabelwidth = 140
+            self.downbuttonlabelheight = 20
+
+
+

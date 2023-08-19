@@ -1,0 +1,62 @@
+			 # Topic : Layout Managment
+
+
+
+
+
+
+
+
+
+
+
+
+
+			# Topic : Message QUEUE
+
+- message Queue is linear type of data structure used to store data in a sequentially.
+- it save data in FIFO manner.
+- while removing data it remove recently added data first.
+ 
+- Advantages of Queue
+	Data queues are fast and optimized.
+	Queues are flexible.
+	They can handle multiple data types. 
+
+- Enqueue:
+	- it is used to add item to the queue.
+	- if queue is full then it is said to be an overflow condition.
+	- Time complexity : O(1)
+
+- Deque :
+	- it is used to remove an item from the queue.
+	- it item are popped in the same order in which they are pushed.
+	- if queue is empty - Underflow condition.
+	- Time Complexity : O(1)
+
+- Implimentation of Queues:
+	1) list
+	2) collections.deque
+	3) queue.Queue
+
+- collections.deque :
+
+	from collections import deque
+
+	- is used to quicker append and pop operation than list.
+	- it allow to perform append and pop operation from both end of container.
+	- append and popleft function is used to add and remove data.
+	- add data at the end of container.
+	- remove element from start of container.
+
+- queue.Queue :
+
+
+----------------------------------- PYTHON FUNCTION -----------------------------------------------------
+
+1) isinstance(x,(int,float))
+	
+
+
+
+
